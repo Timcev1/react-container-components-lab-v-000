@@ -30,3 +30,5 @@ class LatestMovieReviewsContainer extends React.Component {
     )
   };
 }
+
+export default LatestMovieReviewsContainer;
