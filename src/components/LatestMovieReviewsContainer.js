@@ -28,5 +28,5 @@ class LatestMovieReviewsContainer extends React.Component {
         <MovieReviews reviews={this.state.reviews} />
       </div>
     )
-  }
+  };
 }
